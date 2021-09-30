@@ -1,3 +1,7 @@
+body {
+    background-image: url("https://media2.giphy.com/media/MB6SPBqm8X8GtrBovI/giphy.gif?cid=ecf05e47iko6u2g3md2e1a1zdzsa9cur9q0amnanqsey3lm8&rid=giphy.gif&ct=g");
+    background-size: cover;
+}
 .pageHeader {
     text-align: center;
     color: red;
